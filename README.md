@@ -1,5 +1,16 @@
 # simple-react-app
 
+
+
+BlockRobin: 
+
+Run Server: nodemon server/server.js
+
+Build Client(do it whenever you update client): npm run build 
+
+
+
+
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 But you still get it.
