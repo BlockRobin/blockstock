@@ -10,7 +10,7 @@ app.use(bodyParser.json())
 
 
 app.get('/ping', (req, res) => {
-  res.send('pong');
+  res.send('pongpingfasdffasdfasdfasdfs');
 });
 
 
